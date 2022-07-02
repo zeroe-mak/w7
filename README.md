@@ -1,2 +1,5 @@
-slkjbldsfasdf a sdfe 
-kjlfv cpuxzvoa;ejlf dv zpox iw vxc
+ - [ ] Screen width (integer)
+ - [x] Service worker support
+ - [x] Fetch support
+ - [ ] CSS flexbox support
+ - [ ] Custom elements
